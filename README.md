@@ -25,16 +25,16 @@ Cette analyse cherche à répondre à plusieurs questions sur l'industrie du jeu
 ## 📊 Quelques Visualisations Clés
 
 **Évolution Annuelle des Ventes Mondiales**
-*![Évolution Annuelle des Ventes Mondiales](EvolutionVentesJeux.png)*
+*![Évolution Annuelle des Ventes Mondiales](images/EvolutionVentesJeux.png)*
 
 **Ventes Mondiales par Genre de Jeu**
-*![Ventes Mondiales par Genre de Jeu](VentesMondialesGenre.png)*
+*![Ventes Mondiales par Genre de Jeu](images/VentesMondialesGenre.png)*
 
 **Répartition Géographique du marché**
-*![Répartition Géographique du marché](RepartitionVentesRegion.png)*
+*![Répartition Géographique du marché](images/RepartitionVentesRegion.png)*
 
 **Top 10 des Plateformes les Plus Vendues**
-*![Top 10 des Plateformes les plus Vendues](Top10Plateforme.png)*
+*![Top 10 des Plateformes les plus Vendues](images/Top10Plateforme.png)*
 
 ---
 
